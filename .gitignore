@@ -1,0 +1,16 @@
+# Build
+build/
+dist/
+*.spec
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
