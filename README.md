@@ -1,6 +1,10 @@
 # AI Observer Game
 
 ## 游戏简介
+### v4.1 - 2026-03-11 07:25
+- Auto update
+
+
 ### v4.1 - 2026-03-11 06:55
 - Auto update
 
