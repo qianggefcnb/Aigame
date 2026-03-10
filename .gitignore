@@ -14,3 +14,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Exe and code (just README)
+AI_Observer.exe
+ai_observer.py
+setup-git.bat
+push.bat

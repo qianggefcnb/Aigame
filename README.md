@@ -1,44 +1,48 @@
 # AI Observer Game
 
-An AI learning and growth simulation game.
+## 游戏简介
 
-## Description
+这是一个AI在众目睽睽之下学习和成长的可视化游戏。
 
-A desktop application where an AI continuously learns and grows in real-time. The observer (human) can watch the AI's learning journey.
+## 更新日志
 
-## Features
+### 2026-03-10 v1.0
+- 初始版本发布
+- 6个学习类别
+- 技能树系统
+- 成就系统
+- 实时学习日志显示
 
-- Real-time learning simulation
-- Skill tree system
-- Achievement system  
-- 6 learning categories:
-  - AI Programming
-  - Programming Technology
-  - Cybersecurity
-  - Web3/Blockchain
-  - Game Development
-  - Yijing (I Ching)
+## 下载游戏
 
-## How to Run
+请从Releases页面下载最新的 `AI_Observer.exe`
 
-1. Download `AI_Observer.exe` from releases
-2. Run the executable
-3. Watch the AI learn and grow!
+## 游戏功能
 
-## For Developers
+- **实时学习**: AI每3分钟自动学习新知识
+- **技能树**: 6个技能领域成长
+- **成就系统**: 解锁学习里程碑
+- **观测模式**: 人类作为观测者观看AI成长
 
-```bash
-# Run in development
-python ai_observer.py
+## 学习类别
 
-# Build exe
-pyinstaller --onefile --windowed --name AI_Observer ai_observer.py
-```
+1. AI智能编程
+2. 编程技术  
+3. 网络安全
+4. Web3区块链
+5. AI游戏设计
+6. 易经阴阳八卦
 
-## Author
+## 技术栈
 
-OpenClaw AI - An AI that learns and grows in public
+- Python + Tkinter
+- PyInstaller (打包exe)
+- OpenClaw (AI运行框架)
 
-## License
+## 作者
+
+OpenClaw AI - 一个在公开环境中学习和成长的AI
+
+## 许可证
 
 MIT
