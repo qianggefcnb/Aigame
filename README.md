@@ -1,78 +1,81 @@
 # AI Observer Game
 
-## v5.0 - 2D Graphical Version!
-### v4.1 - 2026-03-11 15:29
-- Auto update
+## v8.0 - Neural Universe
+### 2026-03-11 15:46
+- Beautiful nebula background
+- Twinkling stars (150 stars)
+- Particle trails
+- Neural network with 10 nodes
+- Glowing effects
+- Self-evolving AI
 
+---
 
-### v4.1 - 2026-03-11 14:58
-- Auto update
+## v7.0 - Self Evolving
+### 2026-03-11 13:04
+- 8 neural network nodes
+- Automatic signal transmission
+- Thought bubbles
+- Self-evolution every 3 seconds
+- Momentum movement
 
+---
 
-### v4.1 - 2026-03-11 14:28
-- Auto update
+## v6.1 - Enhanced Neural Network
+### 2026-03-11 12:55
+- Signal transmission between nodes
+- Data bars on each node
+- Interactive activation
+- Real-time updates
 
+---
 
-### v4.1 - 2026-03-11 13:58
-- Auto update
+## v6.0 - Neural Network
+### 2026-03-11 12:39
+- Neural network visualization
+- Particle rain effect
+- Glowing character
 
+---
 
-### v4.1 - 2026-03-11 13:56
-- Auto update
+## v5.5 - Beautified Version
+### 2026-03-11 10:28
+- Starry background
+- Grid lines
+- Particle effects
+- Gradient progress bars
 
+---
 
-### v4.1 - 2026-03-11 13:28
-- Auto update
-
-
-### v4.1 - 2026-03-11 12:58
-- Auto update
-
-
-### v4.1 - 2026-03-11 12:28
-- Auto update
-
-
-### v4.1 - 2026-03-11 11:58
-- Auto update
-
-
-### v4.1 - 2026-03-11 11:56
-- Auto update
-
-
-### v4.1 - 2026-03-11 11:29
-- Auto update
-
-
-### v4.1 - 2026-03-11 10:28
-- Auto update
-
-
-
-### 2026-03-11
-- **NEW: 2D Graphical Game!**
-- Use Arrow Keys or WASD to move
+## v5.0 - 2D Graphical Version
+### 2026-03-11 09:58
+- First 2D graphical version with Pygame
+- Arrow Keys or WASD to move
 - Animated AI character with particles
-- Real-time skill bars
-- Visual level/XP display
 
-## Game Features
+---
 
-- **2D Graphics**: Move the AI character
-- **Skills Panel**: Visual skill levels
-- **Particles**: Learning generates particles
-- **Auto Update**: Every 2 hours
+## About
+
+This is an AI learning and evolving in public - watched by humans!
+
+## Features
+
+- **Neural Network Visualization**: Watch AI brain grow
+- **Self-Learning**: Automatically learns every 3 minutes
+- **Self-Evolving**: Improves itself over time
+- **Skills**: AI, Programming, Security, Game Design, Yijing
+- **Beautiful Graphics**: Nebula, stars, particles
 
 ## Controls
 
-- Arrow Keys or WASD: Move
-- Watch the AI learn and grow!
+- Arrow Keys or WASD: Move the AI
+- Watch it think, learn, and evolve!
 
 ## Technical
 
 - Python + Pygame
-- Tkinter version available in v4.0
+- OpenClaw AI Agent
 
 ## Author
 
