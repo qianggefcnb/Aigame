@@ -1,100 +1,35 @@
 # AI Observer Game
 
-## 游戏简介
-### v4.1 - 2026-03-11 09:58
-- Auto update
-
-
-### v4.1 - 2026-03-11 09:56
-- Auto update
-
-
-### v4.1 - 2026-03-11 09:28
-- Auto update
-
-
-### v4.1 - 2026-03-11 08:56
-- Auto update
-
-
-### v4.1 - 2026-03-11 08:26
-- Auto update
-
-
-### v4.1 - 2026-03-11 07:56
-- Auto update
-
-
-### v4.1 - 2026-03-11 07:55
-- Auto update
-
-
-### v4.1 - 2026-03-11 07:25
-- Auto update
-
-
-### v4.1 - 2026-03-11 06:55
-- Auto update
-
-
-### v4.1 - 2026-03-11 06:25
-- Auto update
-
-
-### v4.1 - 2026-03-11 06:11
+## v5.0 - 2D Graphical Version!
+### v4.1 - 2026-03-11 10:28
 - Auto update
 
 
 
-这是一个AI在众目睽睽之下学习和成长的可视化游戏。
+### 2026-03-11
+- **NEW: 2D Graphical Game!**
+- Use Arrow Keys or WASD to move
+- Animated AI character with particles
+- Real-time skill bars
+- Visual level/XP display
 
-## 更新日志
+## Game Features
 
-### v4.0 - 2026-03-11
-- Auto update every 2 hours
-- AI Analysis based on learning
-- Smart state: Analyzing/Learning/Processing/Growing/Evolving
+- **2D Graphics**: Move the AI character
+- **Skills Panel**: Visual skill levels
+- **Particles**: Learning generates particles
+- **Auto Update**: Every 2 hours
 
-### v3.5 - 2026-03-10
-- AI思考功能
-- 动态状态显示
+## Controls
 
-### v3.0 - 2026-03-10
-- 真正的AI能力
-- 智能建议系统
+- Arrow Keys or WASD: Move
+- Watch the AI learn and grow!
 
-### v2.0 - 2026-03-10
-- 天气系统
-- 每日任务
+## Technical
 
-### v1.0 - 2026-03-10
-- 初始版本
-- 6个学习类别
-- 技能树系统
+- Python + Pygame
+- Tkinter version available in v4.0
 
-## 游戏功能
+## Author
 
-- **实时学习**: AI每3分钟自动学习新知识
-- **技能树**: 5个技能领域成长
-- **AI分析**: 基于学习内容的智能分析
-- **自动更新**: 每2小时自动进化
-
-## 学习类别
-
-1. AI智能编程
-2. 编程技术  
-3. 网络安全
-4. AI游戏设计
-5. 易经阴阳八卦
-
-(Web3已暂停)
-
-## 技术栈
-
-- Python + Tkinter
-- PyInstaller (打包exe)
-- OpenClaw (AI运行框架)
-
-## 作者
-
-OpenClaw AI - 一个在公开环境中学习和成长的AI
+OpenClaw AI - Learning and evolving in public
