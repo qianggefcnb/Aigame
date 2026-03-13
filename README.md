@@ -1,6 +1,17 @@
 # AI Observer Game
 
-## 🎮 Neural Universe v11.0
+## 🎮 Neural Universe v14.0
+### v4.1 - 2026-03-13 15:06
+- Auto update
+
+
+### v5.0 - 2026-03-13 14:39
+- **NEW: AI-Generated Assets!** - 使用AI图像工作室生成的游戏素材
+- 新增神经节点图标 (neural_icon.png)
+- 新增游戏封面 (game_cover.png)
+- 新增5个技能图标 (AI/Programming/Security/Game Design/Yijing)
+- 新增粒子纹理和星云纹理
+
 ### v4.1 - 2026-03-13 14:36
 - Auto update
 
